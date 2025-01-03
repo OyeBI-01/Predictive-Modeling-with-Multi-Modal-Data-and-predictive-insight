@@ -45,22 +45,18 @@ Models Used:
 
 ## Results and Insights
 •Sentiment and Product Scores:
-
     •Positive sentiment is strongly correlated with higher product scores, while negative sentiment correlates with lower scores.
     •Reviews with positive sentiment tend to have higher predictive scores from the models, indicating the importance of customer satisfaction.
     
 •Helpfulness Ratio:
-
-    •The helpfulness ratio, which measures the proportion of people finding a review useful, is a key factor. Reviews with a higher helpfulness ratio are more likely to provide valuable insights and have higher predictive scores.
-    •This feature showed significant weight in the model, helping differentiate between informative and less helpful reviews.
+  •The helpfulness ratio, which measures the proportion of people finding a review useful, is a key factor. Reviews with a higher helpfulness ratio are more likely to provide valuable insights and have higher predictive scores.
+  •This feature showed significant weight in the model, helping differentiate between informative and less helpful reviews.
 
 •Text Length:
-
-    •Longer reviews tend to be more detailed and may provide more context about a product, leading to higher product scores.
-    •Reviews with greater text length are also correlated with higher model prediction accuracy, as they often contain more relevant information.
+  •Longer reviews tend to be more detailed and may provide more context about a product, leading to higher product scores.
+  •Reviews with greater text length are also correlated with higher model prediction accuracy, as they often contain more relevant information.
 
 •Feature Importance:
-
     •The analysis revealed that sentiment scores and helpfulness ratios are among the most significant features for predicting product scores.
     •Sentiment analysis features (both sentiment labels and sentiment scores) played a central role in driving model predictions.
 
